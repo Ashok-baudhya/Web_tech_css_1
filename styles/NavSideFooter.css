@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0; 
+}
+
+nav{
+    display: flex;
+    background-color:#98fb98cc ;
+    gap: 1%;
+}
+
+#navImg{
+    width: 7%;
+    height: 60px;
+}
+
+#side{
+    width: 20vw;
+    background-color: #00FA9A;
+    height: 82vh;
+    font-size: 20;
+}
+
+a {
+    color: blue;
+}
+
+footer,#wel{
+    background-color: rgb(136, 4, 4);
+    color: #fff;
+    margin-top: 3px;
+    padding: 0;
+}
+
+#belownav{
+    display: flex;
+    gap: 5%;
+    margin-top: .5%;
+}
+

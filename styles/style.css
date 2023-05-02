@@ -1,0 +1,59 @@
+#indImg{
+    width: 30%;
+    margin-top: 5%;
+}
+
+#inside{
+    max-width: 75%;
+    font-weight: 600;
+}
+
+ p{
+    margin-top: 3%;
+    font-size: 19; 
+}
+
+#syllright{
+    margin-top: 3%;
+    margin-left: 5%;
+    font-size: 20px;    
+}
+
+#syllright a{
+    margin-top: 1%;
+    color: blue;
+    
+}
+
+#rightRegSide{
+    margin-top: 3%;
+    margin-left: 15%;
+    text-align: center;
+
+}
+
+ .regtable{
+    width: 20vw;
+    border: 1px solid ;
+    font-size: 1.2rem;
+    margin-top: 8%;
+} 
+
+
+#schright {
+    margin-top: 2%;
+    max-width: 45%;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 100;
+}
+
+table{
+    border: 1px solid ;
+    margin-top: 3%;
+}
+td,th{
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 20;
+}
